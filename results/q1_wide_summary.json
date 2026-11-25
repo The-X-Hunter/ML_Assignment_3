@@ -1,0 +1,10 @@
+{
+  "model": "q1_wide",
+  "parameters": 3676682,
+  "best_val_accuracy": 53.02,
+  "best_epoch": 21,
+  "total_seconds": 69.97412838414311,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

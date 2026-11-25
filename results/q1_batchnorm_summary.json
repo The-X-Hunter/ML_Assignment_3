@@ -1,0 +1,10 @@
+{
+  "model": "q1_batchnorm",
+  "parameters": 1708810,
+  "best_val_accuracy": 56.12,
+  "best_epoch": 13,
+  "total_seconds": 71.73918284615502,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

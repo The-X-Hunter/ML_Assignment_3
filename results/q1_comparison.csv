@@ -1,0 +1,4 @@
+model,parameters,best_val_accuracy,best_epoch,total_seconds,epochs,lr,weight_decay
+q1_plain,1707274,53.08,14,73.01227433187887,30,0.001,0.0001
+q1_batchnorm,1708810,56.12,13,71.73918284615502,30,0.001,0.0001
+q1_wide,3676682,53.02,21,69.97412838414311,30,0.001,0.0001

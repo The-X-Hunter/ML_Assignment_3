@@ -1,0 +1,10 @@
+{
+  "model": "q2_cnn_permuted",
+  "parameters": 1675018,
+  "best_val_accuracy": 52.52,
+  "best_epoch": 6,
+  "total_seconds": 88.11053014500067,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

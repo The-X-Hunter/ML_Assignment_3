@@ -1,0 +1,2 @@
+svm_test_accuracy,cluster_majority_test_accuracy,cluster_test_ARI,cluster_test_NMI,svm_cluster_disagreement_fraction,representation,svm_kernel,svm_C,clusters,training_subset
+46.7,22.009999999999998,0.05095043263461139,0.10031183342386506,0.7451,q3_dae,rbf,10,10,5000

@@ -1,0 +1,13 @@
+{
+  "representation": "q3_dae",
+  "bottleneck": 1024,
+  "train_subset": 5000,
+  "seed": 260403,
+  "kernel": "rbf",
+  "C": 10,
+  "best_svm_validation_accuracy": 47.96,
+  "clustering": "MiniBatchKMeans",
+  "clusters": 10,
+  "best_validation_silhouette": -0.017073336988687515,
+  "svm_support_vectors": 4905
+}

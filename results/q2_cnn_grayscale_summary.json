@@ -1,0 +1,10 @@
+{
+  "model": "q2_cnn_grayscale",
+  "parameters": 1675018,
+  "best_val_accuracy": 76.64,
+  "best_epoch": 13,
+  "total_seconds": 118.98334163380787,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

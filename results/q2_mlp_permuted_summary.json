@@ -1,0 +1,10 @@
+{
+  "model": "q2_mlp_permuted",
+  "parameters": 1708810,
+  "best_val_accuracy": 56.18,
+  "best_epoch": 11,
+  "total_seconds": 87.41116371145472,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

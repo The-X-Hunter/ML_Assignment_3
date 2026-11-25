@@ -1,0 +1,4 @@
+model,test_accuracy,test_cross_entropy
+q1_plain,52.16,1.8964443572998047
+q1_batchnorm,55.44,1.500217716217041
+q1_wide,53.25,2.5957689430236814

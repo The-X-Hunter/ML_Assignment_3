@@ -1,0 +1,25 @@
+pair,source,index,true_class,decision_score
+automobile / truck,train_support_vector,62,truck,0.999506385596714
+automobile / truck,train_support_vector,1690,truck,0.9995251734715538
+automobile / truck,train_support_vector,1572,truck,0.9995290984115112
+automobile / truck,train_support_vector,3265,truck,0.9995340829832772
+automobile / truck,test_near_boundary,1924,truck,-0.0008010190907227488
+automobile / truck,test_near_boundary,5090,automobile,0.0010639955877274065
+automobile / truck,test_near_boundary,3702,automobile,0.0021518975813423213
+automobile / truck,test_near_boundary,723,automobile,0.002608719867184972
+cat / dog,train_support_vector,461,dog,-0.2138621798170561
+cat / dog,train_support_vector,1662,dog,0.6054184590633872
+cat / dog,train_support_vector,3263,cat,-0.6514390369233952
+cat / dog,train_support_vector,1101,cat,-0.7060440718831934
+cat / dog,test_near_boundary,4404,cat,-0.00014095656162452924
+cat / dog,test_near_boundary,3230,cat,-0.0003728463002480656
+cat / dog,test_near_boundary,1863,dog,-0.0005330894904371983
+cat / dog,test_near_boundary,4176,cat,0.0018239663437208953
+bird / deer,train_support_vector,975,bird,-0.02756259494395119
+bird / deer,train_support_vector,3260,deer,0.3292793879096163
+bird / deer,train_support_vector,1135,bird,-0.42701382593714615
+bird / deer,train_support_vector,3097,deer,0.45134131888007534
+bird / deer,test_near_boundary,1971,deer,4.963667436216901e-05
+bird / deer,test_near_boundary,4322,deer,0.00018912980389923506
+bird / deer,test_near_boundary,7831,bird,-0.0005113510296095025
+bird / deer,test_near_boundary,2938,bird,-0.0012836447407045537

@@ -1,0 +1,4 @@
+method,clusters,validation_silhouette
+MiniBatchKMeans,10,-0.017073336988687515
+MiniBatchKMeans,20,-0.02847280353307724
+MiniBatchKMeans,40,-0.033801618963479996

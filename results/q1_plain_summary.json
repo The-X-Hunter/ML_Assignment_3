@@ -1,0 +1,10 @@
+{
+  "model": "q1_plain",
+  "parameters": 1707274,
+  "best_val_accuracy": 53.08,
+  "best_epoch": 14,
+  "total_seconds": 73.01227433187887,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

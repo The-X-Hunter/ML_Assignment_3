@@ -1,0 +1,10 @@
+{
+  "model": "q2_cnn_clean",
+  "parameters": 1675018,
+  "best_val_accuracy": 78.74,
+  "best_epoch": 18,
+  "total_seconds": 69.89748860057443,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

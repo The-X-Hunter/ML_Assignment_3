@@ -1,0 +1,10 @@
+{
+  "model": "q2_mlp_grayscale",
+  "parameters": 1708810,
+  "best_val_accuracy": 48.54,
+  "best_epoch": 9,
+  "total_seconds": 119.12440254865214,
+  "epochs": 30,
+  "lr": 0.001,
+  "weight_decay": 0.0001
+}

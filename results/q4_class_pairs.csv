@@ -1,0 +1,4 @@
+class_a,class_b,svm_mutual_confusions,pair_test_examples,svm_pair_test_accuracy,cluster_pair_test_accuracy,svm_cluster_pair_disagreement,pairwise_support_vectors
+automobile,truck,388,2000,57.4,24.95,0.724,918
+cat,dog,387,2000,36.75,10.5,0.796,941
+bird,deer,305,2000,35.05,33.5,0.729,879

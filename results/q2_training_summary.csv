@@ -1,0 +1,6 @@
+model,parameters,best_val_accuracy,best_epoch,total_seconds,epochs,lr,weight_decay,condition,architecture
+q2_cnn_clean,1675018,78.74,18,69.89748860057443,30,0.001,0.0001,clean,cnn
+q2_mlp_permuted,1708810,56.18,11,87.41116371145472,30,0.001,0.0001,permuted,mlp
+q2_cnn_permuted,1675018,52.52,6,88.11053014500067,30,0.001,0.0001,permuted,cnn
+q2_mlp_grayscale,1708810,48.54,9,119.12440254865214,30,0.001,0.0001,grayscale,mlp
+q2_cnn_grayscale,1675018,76.64,13,118.98334163380787,30,0.001,0.0001,grayscale,cnn
